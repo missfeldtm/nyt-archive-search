@@ -1,0 +1,14 @@
+body {
+  margin-top: 1rem;
+}
+
+.jumbotron {
+  background: #21325a;
+  color: #fff;
+  text-align: center;
+}
+
+.jumbotron h1 {
+  font-size: 3rem;
+}
+/*# sourceMappingURL=style.css.map */
